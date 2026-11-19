@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+     cropped     0.2890    0.1351    0.1841       644
+    numbered     0.4494    0.6617    0.5353       671
+  raw_images     0.9440    0.9806    0.9620       671
+
+    accuracy                         0.5987      1986
+   macro avg     0.5608    0.5925    0.5605      1986
+weighted avg     0.5645    0.5987    0.5656      1986

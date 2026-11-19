@@ -1,0 +1,5 @@
+fish-species-image-data/
+data/
+__pycache__
+.venv/
+fish-species-image-data.zip
